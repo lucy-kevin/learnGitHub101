@@ -4,7 +4,7 @@ Hey there! I'm Aseru Kevin Ziyada, and I'm excited to set sail on this GitHub jo
 
 Here's a sneak peek into what we'll cover together, it will be updated incase of any changes;
 ### **Introduction to GitHub**
-- [ ] What is GitHup
+- [ ] What is GitHub
 - [ ] Setting up your GitHub account
 - [ ] Navigating the GitHub Interface
 - [ ] Basic GitHub Commands
